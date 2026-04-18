@@ -1,37 +1,27 @@
-﻿# Desafio: Maior e Menor da Tupla
+﻿# Desafio: Maior Menor Tupla
 
-Desafio de lÃ³gica para encontrar extremos em tuplas.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-ExercÃ­cio que implementa algoritmos para identificar valores mÃ¡ximo e mÃ­nimo em estruturas de tuplas.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o desafio
-python desafio_maior_menor_tupla.py
+python desafio-maior-menor-tupla.py
 `
 
-## ðŸ“‹ Desafio
+## ðŸ“‹ Funcionalidades
 
-Implemente funÃ§Ãµes que:
-- Recebem uma tupla como entrada
-- Encontram o maior valor
-- Encontram o menor valor
-- Retornam ambos os valores
-
-## ðŸ’¡ Exemplo
-
-`python
-tupla = (5, 2, 9, 1, 7)
-maior, menor = extremos_tupla(tupla)
-# maior = 9
-# menor = 1
-`
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
